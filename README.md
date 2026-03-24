@@ -1,1 +1,3 @@
-# secprog-assignments
+Lance Gordon
+MS Cybersecurity Engineering
+Assignment Repository 
